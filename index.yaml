@@ -3,6 +3,16 @@ entries:
   ibm-spectrum-scale-csi-driver:
   - apiVersion: v2
     appVersion: 2.10.7
+    created: "2025-04-16T10:18:41.075299285Z"
+    description: Helm chart for IBM GPFS (Spectrum Scale) CSI driver
+    digest: 0d7f11030ff2da7a3f3eaae88b2730c4ac791a6341c903c279c7ba08a6110074
+    name: ibm-spectrum-scale-csi-driver
+    type: application
+    urls:
+    - https://github.com/albal/ibm-spectrum-scale-csi-driver/releases/download/ibm-spectrum-scale-csi-driver-1.1.12/ibm-spectrum-scale-csi-driver-1.1.12.tgz
+    version: 1.1.12
+  - apiVersion: v2
+    appVersion: 2.10.7
     created: "2025-04-11T17:07:00.377522939Z"
     description: Helm chart for IBM GPFS (Spectrum Scale) CSI driver
     digest: 84ac1a9ef37bbca4e25e49e26a7a8e99a4f2796c3f8d5e20e225e58de8c59455
@@ -101,4 +111,4 @@ entries:
     urls:
     - https://github.com/albal/ibm-spectrum-scale-csi-driver/releases/download/ibm-spectrum-scale-csi-driver-1.1.2/ibm-spectrum-scale-csi-driver-1.1.2.tgz
     version: 1.1.2
-generated: "2025-04-11T17:07:00.377565458Z"
+generated: "2025-04-16T10:18:41.075341905Z"
